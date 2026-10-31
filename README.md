@@ -12,10 +12,10 @@ Every student adds **one file** here through a **pull request** — your first c
 
    ```markdown
    # Your Full Name
-   - Roll no: 541
-   - GitHub: @your-username
-   - My AI project: https://github.com/your-username/your-project
-   - One line about it: …
+   - Roll no: 545
+   - GitHub: @irshadpatelcodey
+   - My AI https://github.com/irshadpatelcodey/Credit-Card-Fraud-Detection-545-AI
+   - One line about it: … its credit card fraud detection ML Project
    ```
 
 4. Commit with a clear message, for example `Add 541 – Your Name`.
